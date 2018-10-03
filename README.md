@@ -1,2 +1,2 @@
 # Carlos206
-Mi primer repositorio en GitHub
+Repositorios del apŕendizaje en Ruby
