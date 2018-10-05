@@ -14,3 +14,9 @@ h2{
     color: blue;
     font-style: italic;
     }
+
+p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.7em;
+}
